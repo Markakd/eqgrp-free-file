@@ -61,3 +61,7 @@ e安全对各模块的功能分析
 [比雅虎泄露更严重！超85万台思科设备仍受“零日漏洞”影响](http://www.leiphone.com/news/201609/chDy5qrgXHxZrWXK.html)
 
 [浅析思科0day漏洞CVE-2016-6415](http://www.freebuf.com/vuls/115207.html)
+
+旧闻有新料。以图文的方式深入分析了代码目录，团队特征等。 另外，文末有彩蛋。  
+[旧文：世界第一APT组织"方程式"，被黑了！](https://zhuanlan.zhihu.com/p/22817242)
+
