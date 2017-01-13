@@ -32,6 +32,8 @@ free-file的文件主要涉及的内容是针对防火墙的扫描器、漏洞�
 有安全团队分析了相关的文件。 感兴趣的可以看一下。 
 
 [8月19日：Shadow-Brokers所泄露文件的介绍、技术分析（上）](http://bobao.360.cn/learning/detail/2970.html)
+[freebuf 的分析1](http://www.freebuf.com/news/topnews/112447.html)
+[freebuf 的分析2](http://www.freebuf.com/articles/network/115158.html)
 
 大家可以重点关注下SecondDate相关的代码和工具,美国国安局在巴基斯坦和黎巴嫩的行动中曾使用过这个工具
 
@@ -43,7 +45,7 @@ free-file的文件主要涉及的内容是针对防火墙的扫描器、漏洞�
 
 国外黑客对目录的解析
 
-[Equation Group Firewall Operations Catalogue](https://musalbas.com/2016/08/16/equation-group-firewall-operations-catalogue.html
+[Equation Group Firewall Operations Catalogue](https://musalbas.com/2016/08/16/equation-group-firewall-operations-catalogue.html)
 
 天融信产品的相关漏洞利用
 
